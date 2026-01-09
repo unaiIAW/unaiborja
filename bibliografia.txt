@@ -1,0 +1,1 @@
+"Loeliger, J. and McCullough, M. Version Control with Git. O'Reilly." 
