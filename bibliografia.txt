@@ -1,1 +1,2 @@
-"Loeliger, J. and McCullough, M. Version Control with Git. O'Reilly." 
+Chacon, S. and Straub, B. Pro Git. Apress.
+Loeliger, J. and McCullough, M. Version Control with Git. O'Reilly.
